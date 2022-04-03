@@ -1,0 +1,4605 @@
+{
+    "data": {
+        "home": {
+            "advertisers": [
+                {
+                    "team_name": null,
+                    "address": null,
+                    "builder": {
+                        "fulfillment_id": null
+                    },
+                    "broker": null,
+                    "email": null,
+                    "fulfillment_id": null,
+                    "href": null,
+                    "mls_set": null,
+                    "name": null,
+                    "nrds_id": null,
+                    "office": {
+                        "address": null,
+                        "application_url": null,
+                        "email": "rentalservice@move.com",
+                        "lead_email": {
+                            "to": "rentalservice@move.com",
+                            "cc": null
+                        },
+                        "fulfillment_id": null,
+                        "hours": null,
+                        "href": null,
+                        "mls_set": null,
+                        "out_of_community": null,
+                        "name": "Birge & Held Asset Management",
+                        "phones": [
+                            {
+                                "ext": null,
+                                "number": null,
+                                "primary": false,
+                                "trackable": null,
+                                "type": "office"
+                            },
+                            {
+                                "ext": null,
+                                "number": "8442689801",
+                                "primary": false,
+                                "trackable": null,
+                                "type": "primary"
+                            },
+                            {
+                                "ext": null,
+                                "number": "8442689801",
+                                "primary": false,
+                                "trackable": true,
+                                "type": "primary"
+                            }
+                        ],
+                        "photo": null,
+                        "slogan": null
+                    },
+                    "phones": null,
+                    "photo": null,
+                    "slogan": null,
+                    "type": "management"
+                },
+                {
+                    "team_name": null,
+                    "address": null,
+                    "builder": {
+                        "fulfillment_id": null
+                    },
+                    "broker": null,
+                    "email": null,
+                    "fulfillment_id": null,
+                    "href": null,
+                    "mls_set": null,
+                    "name": null,
+                    "nrds_id": null,
+                    "office": {
+                        "address": null,
+                        "application_url": null,
+                        "email": null,
+                        "lead_email": null,
+                        "fulfillment_id": null,
+                        "hours": [
+                            {
+                                "end_time": "6:00 PM",
+                                "day": [
+                                    "monday"
+                                ],
+                                "start_time": "10:00 AM"
+                            },
+                            {
+                                "end_time": "6:00 PM",
+                                "day": [
+                                    "tuesday"
+                                ],
+                                "start_time": "10:00 AM"
+                            },
+                            {
+                                "end_time": "6:00 PM",
+                                "day": [
+                                    "wednesday"
+                                ],
+                                "start_time": "10:00 AM"
+                            },
+                            {
+                                "end_time": "6:00 PM",
+                                "day": [
+                                    "thursday"
+                                ],
+                                "start_time": "10:00 AM"
+                            },
+                            {
+                                "end_time": "6:00 PM",
+                                "day": [
+                                    "friday"
+                                ],
+                                "start_time": "10:00 AM"
+                            },
+                            {
+                                "end_time": "3:00 PM",
+                                "day": [
+                                    "saturday"
+                                ],
+                                "start_time": "10:00 AM"
+                            },
+                            {
+                                "end_time": "Closed",
+                                "day": [
+                                    "sunday"
+                                ],
+                                "start_time": "Closed"
+                            }
+                        ],
+                        "href": null,
+                        "mls_set": null,
+                        "out_of_community": null,
+                        "name": "SAWMILL RIDGE",
+                        "phones": [
+                            {
+                                "ext": null,
+                                "number": "8442689801",
+                                "primary": false,
+                                "trackable": null,
+                                "type": "office"
+                            }
+                        ],
+                        "photo": null,
+                        "slogan": null
+                    },
+                    "phones": null,
+                    "photo": null,
+                    "slogan": null,
+                    "type": "community"
+                }
+            ],
+            "buyers": null,
+            "community": null,
+            "estimates": {
+                "current_values": null
+            },
+            "days_on_market": null,
+            "description": {
+                "baths": null,
+                "baths_3qtr": null,
+                "baths_full": null,
+                "baths_full_calc": null,
+                "baths_half": null,
+                "baths_max": 1,
+                "baths_min": 1,
+                "baths_partial_calc": null,
+                "baths_total": null,
+                "beds": null,
+                "beds_max": 2,
+                "beds_min": 1,
+                "construction": null,
+                "cooling": null,
+                "exterior": null,
+                "fireplace": null,
+                "garage": null,
+                "garage_max": null,
+                "garage_min": null,
+                "garage_type": null,
+                "heating": null,
+                "logo": null,
+                "lot_sqft": null,
+                "name": "SAWMILL RIDGE",
+                "pool": null,
+                "roofing": null,
+                "rooms": null,
+                "sqft": null,
+                "sqft_max": 900,
+                "sqft_min": 600,
+                "stories": null,
+                "styles": null,
+                "sub_type": null,
+                "text": "Sawmill Ridge in Dublin, OH offers spacious 1 and 2 bedroom apartment homes for rent. Sawmill Ridge is a pet friendly community located within the Dublin City School District. Amenities include a swimming pool with sundeck, updated appliance packages, and gas fireplaces. Sawmill Ridge could not be closer to endless options for dining, shopping and entertainment in the Dublin area as well as the new Bridge Street District. We are conveniently located off 270 and Sawmill Road while providing a private and scenic living environment. Spend the summer months relaxing on our pool deck, spending time on your enclosed patio/covered porch, or enjoying our two acre park.",
+                "type": "apartment",
+                "units": 192,
+                "year_built": 1990,
+                "year_renovated": null,
+                "zoning": null
+            },
+            "details": [
+                {
+                    "category": "Community Features",
+                    "parent_category": "Community",
+                    "text": [
+                        "24-Hour Emergency Maintenance Program",
+                        "2-Acre Park",
+                        "6 Panel Door/Trim Paint",
+                        "B&H Renovation - Sawmill Ridge",
+                        "Central Air Conditioning",
+                        "Convenient Yet Peaceful Location",
+                        "Dog Park",
+                        "Dublin City Schools",
+                        "Flexible Lease Terms",
+                        "Garbage Disposals",
+                        "Gas Fireplaces",
+                        "Glazed Countertops",
+                        "LVT Flooring (SMR)",
+                        "Near New Bridge Street District",
+                        "Patios/Balconies",
+                        "Private Entrances",
+                        "Private Entry Townhomes",
+                        "Resident Package Service",
+                        "Single-sided gas log fireplace",
+                        "Spacious Closets",
+                        "Stackable Connection",
+                        "Swimming Pool with Sundeck",
+                        "Updated Appliance Package",
+                        "Washer & Dryer Available*",
+                        "Washer & Dryer Connection",
+                        "Package Service",
+                        "Maintenance on site",
+                        "Concierge",
+                        "Pet Play Area",
+                        "Sundeck",
+                        "Courtyard",
+                        "Pool",
+                        "High Speed Internet Access",
+                        "Washer/Dryer",
+                        "Washer/Dryer Hookup",
+                        "Air Conditioning",
+                        "Heating",
+                        "Smoke Free",
+                        "Cable Ready",
+                        "Tub/Shower",
+                        "Fireplace",
+                        "Dishwasher",
+                        "Disposal",
+                        "Stainless Steel Appliances",
+                        "Pantry",
+                        "Kitchen",
+                        "Oven",
+                        "Range",
+                        "Refrigerator",
+                        "Freezer",
+                        "Carpet",
+                        "Vinyl Flooring",
+                        "Linen Closet",
+                        "Window Coverings",
+                        "Patio",
+                        "Porch",
+                        "Deck",
+                        "Dogs Allowed",
+                        "Cats Allowed"
+                    ]
+                },
+                {
+                    "category": "Unit Features",
+                    "parent_category": "Unit",
+                    "text": [
+                        "Courtyard",
+                        "Washer/Dryer hookup",
+                        "Air Conditioning",
+                        "Fireplace",
+                        "Dishwasher",
+                        "Disposal",
+                        "Refrigerator",
+                        "Window Coverings",
+                        "Patio/Balcony"
+                    ]
+                }
+            ],
+            "flags": {
+                "is_coming_soon": null,
+                "is_contingent": null,
+                "is_deal_available": null,
+                "is_for_rent": true,
+                "is_foreclosure": null,
+                "is_garage_present": null,
+                "is_new_construction": null,
+                "is_pending": null,
+                "is_price_excludes_land": null,
+                "is_senior_community": null,
+                "is_short_sale": null,
+                "is_subdivision": null
+            },
+            "href": "https://www.realtor.com/realestateandhomes-detail/6564-Millridge-Cir_Dublin_OH_43017_M45413-73160",
+            "last_sold_date": null,
+            "last_sold_price": null,
+            "list_date": "2021-09-16T23:39:33Z",
+            "list_price": null,
+            "listing_id": "587679581",
+            "local": {
+                "flood": {
+                    "firststreet_url": "https://floodfactor.com/property/394303035_fsid?utm_source=realtor&utm_medium=overlay",
+                    "fsid": "394303035",
+                    "flood_factor_score": 1,
+                    "flood_factor_severity": "minimal",
+                    "environmental_risk": 1,
+                    "trend_direction": 0,
+                    "fema_zone": [
+                        "X"
+                    ],
+                    "insurance_quotes": [
+                        {
+                            "provider_url": "https://firststreet-prod-api.neptuneflood.com/api/v1/firststreet/xzonequote?fsid=394303035",
+                            "provider_name": "neptuneflood.com",
+                            "provider_logo": "https://assets.floodfactor.com/insurance/neptune_flood.png",
+                            "expires": null,
+                            "price": 363,
+                            "home_coverage": 125000,
+                            "contents_coverage": 50000,
+                            "disclaimer": [
+                                "Amounts displayed are estimates based on the building and contents coverage levels noted and are provided for informational purposes only. Actual flood insurance costs may vary."
+                            ]
+                        },
+                        {
+                            "provider_url": "https://firststreet-prod-api.neptuneflood.com/api/v1/firststreet/xzonequote?fsid=394303035",
+                            "provider_name": "neptuneflood.com",
+                            "provider_logo": "https://assets.floodfactor.com/insurance/neptune_flood.png",
+                            "expires": null,
+                            "price": 363,
+                            "home_coverage": 250000,
+                            "contents_coverage": 100000,
+                            "disclaimer": [
+                                "Amounts displayed are estimates based on the building and contents coverage levels noted and are provided for informational purposes only. Actual flood insurance costs may vary."
+                            ]
+                        }
+                    ]
+                },
+                "noise": {
+                    "score": 75
+                }
+            },
+            "location": {
+                "address": {
+                    "city": "Dublin",
+                    "coordinate": {
+                        "lat": 40.08874,
+                        "lon": -83.09626
+                    },
+                    "country": "USA",
+                    "line": "6564 Millridge Cir",
+                    "postal_code": "43017",
+                    "state": "Ohio",
+                    "state_code": "OH",
+                    "street_direction": null,
+                    "street_name": "Millridge",
+                    "street_number": "6564",
+                    "street_post_direction": null,
+                    "street_suffix": "Cir",
+                    "unit": null,
+                    "validation_code": "121"
+                },
+                "county": {
+                    "fips_code": "39049",
+                    "name": "Franklin",
+                    "state_code": "OH"
+                },
+                "neighborhoods": [
+                    {
+                        "city": "Dublin",
+                        "id": "4e76e4ff-c0e3-5232-9cf9-281b8fb437fc",
+                        "level": "neighborhood",
+                        "name": "Riverside",
+                        "state_code": "OH",
+                        "slug_id": "Riverside_Dublin_OH"
+                    }
+                ],
+                "search_areas": [
+                    {
+                        "city": "columbus",
+                        "state_code": "oh"
+                    },
+                    {
+                        "city": "dublin",
+                        "state_code": "oh"
+                    }
+                ]
+            },
+            "nearby_schools": {
+                "schools": [
+                    {
+                        "coordinate": {
+                            "lat": 40.087705,
+                            "lon": -83.102776
+                        },
+                        "distance_in_miles": 0.4,
+                        "district": {
+                            "id": "06198576321",
+                            "name": "Dublin City School District"
+                        },
+                        "education_levels": [
+                            "elementary"
+                        ],
+                        "funding_type": "public",
+                        "grades": [
+                            "K",
+                            "1",
+                            "2",
+                            "3",
+                            "4",
+                            "5"
+                        ],
+                        "greatschools_id": "3902364",
+                        "id": "0755748041",
+                        "name": "Riverside Elementary School",
+                        "nces_code": "390470204271",
+                        "parent_rating": 4,
+                        "rating": 5,
+                        "review_count": 6,
+                        "slug_id": "Riverside-Elementary-School-0755748041",
+                        "student_count": 372
+                    },
+                    {
+                        "coordinate": {
+                            "lat": 40.121258,
+                            "lon": -83.100348
+                        },
+                        "distance_in_miles": 2.3,
+                        "district": {
+                            "id": "06198576321",
+                            "name": "Dublin City School District"
+                        },
+                        "education_levels": [
+                            "high"
+                        ],
+                        "funding_type": "public",
+                        "grades": [
+                            "9",
+                            "10",
+                            "11",
+                            "12"
+                        ],
+                        "greatschools_id": "3902357",
+                        "id": "0755747941",
+                        "name": "Dublin Scioto High School",
+                        "nces_code": "390470200666",
+                        "parent_rating": 5,
+                        "rating": 7,
+                        "review_count": 6,
+                        "slug_id": "Dublin-Scioto-High-School-0755747941",
+                        "student_count": 1335
+                    },
+                    {
+                        "coordinate": {
+                            "lat": 40.120258,
+                            "lon": -83.080094
+                        },
+                        "distance_in_miles": 2.3,
+                        "district": {
+                            "id": "06198576321",
+                            "name": "Dublin City School District"
+                        },
+                        "education_levels": [
+                            "middle"
+                        ],
+                        "funding_type": "public",
+                        "grades": [
+                            "6",
+                            "7",
+                            "8"
+                        ],
+                        "greatschools_id": "3902366",
+                        "id": "0755748061",
+                        "name": "Ann Simpson Davis Middle School",
+                        "nces_code": "390470204349",
+                        "parent_rating": 4,
+                        "rating": 5,
+                        "review_count": 9,
+                        "slug_id": "Ann-Simpson-Davis-Middle-School-0755748061",
+                        "student_count": 1013
+                    },
+                    {
+                        "coordinate": {
+                            "lat": 40.095014,
+                            "lon": -83.094704
+                        },
+                        "distance_in_miles": 0.4,
+                        "district": {
+                            "id": "06198571421",
+                            "name": null
+                        },
+                        "education_levels": [
+                            "elementary"
+                        ],
+                        "funding_type": "private",
+                        "grades": [
+                            "PK",
+                            "K",
+                            "1",
+                            "2",
+                            "3",
+                            "4",
+                            "5"
+                        ],
+                        "greatschools_id": "3905440",
+                        "id": "0755792001",
+                        "name": "Tree Of Life Christian School-Dublin Branch",
+                        "nces_code": "A0108685",
+                        "parent_rating": 5,
+                        "rating": null,
+                        "review_count": 3,
+                        "slug_id": "Tree-Of-Life-Christian-School-Dublin-Branch-0755792001",
+                        "student_count": 122
+                    }
+                ]
+            },
+            "photo_count": null,
+            "photos": null,
+            "primary_photo": null,
+            "property_history": [
+                {
+                    "date": "2016-10-27",
+                    "event_name": "Listing removed",
+                    "price": 834,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-10-27",
+                    "event_name": "Listing removed",
+                    "price": 834,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-10-27",
+                    "event_name": "Listing removed",
+                    "price": 697,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-10-27",
+                    "event_name": "Listing removed",
+                    "price": 904,
+                    "price_sqft": 0.904,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-10-27",
+                    "event_name": "Listing removed",
+                    "price": 904,
+                    "price_sqft": 0.904,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-10-27",
+                    "event_name": "Listing removed",
+                    "price": 944,
+                    "price_sqft": 0.944,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-10-26",
+                    "event_name": "Price Changed for rent",
+                    "price": 834,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-10-26",
+                    "event_name": "Price Changed for rent",
+                    "price": 944,
+                    "price_sqft": 0.944,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-10-26",
+                    "event_name": "Price Changed for rent",
+                    "price": 904,
+                    "price_sqft": 0.904,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-10-25",
+                    "event_name": "Price Changed for rent",
+                    "price": 834,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-10-25",
+                    "event_name": "Price Changed for rent",
+                    "price": 904,
+                    "price_sqft": 0.904,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-10-23",
+                    "event_name": "Price Changed for rent",
+                    "price": 697,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-10-23",
+                    "event_name": "Price Changed for rent",
+                    "price": 912,
+                    "price_sqft": 0.912,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-10-23",
+                    "event_name": "Price Changed for rent",
+                    "price": 903,
+                    "price_sqft": 0.903,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-10-23",
+                    "event_name": "Listed for rent",
+                    "price": 732,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-10-13",
+                    "event_name": "Listed for rent",
+                    "price": 707,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-10-12",
+                    "event_name": "Price Changed for rent",
+                    "price": 893,
+                    "price_sqft": 0.893,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-10-12",
+                    "event_name": "Listed for rent",
+                    "price": 708,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-10-12",
+                    "event_name": "Listed for rent",
+                    "price": 893,
+                    "price_sqft": 0.893,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-10-11",
+                    "event_name": "Listed for rent",
+                    "price": 904,
+                    "price_sqft": 0.904,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-10-04",
+                    "event_name": "Listed for rent",
+                    "price": 898,
+                    "price_sqft": 0.898,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-07-30",
+                    "event_name": "Listing removed",
+                    "price": 954,
+                    "price_sqft": 0.954,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-07-30",
+                    "event_name": "Listing removed",
+                    "price": 966,
+                    "price_sqft": 0.966,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-07-30",
+                    "event_name": "Listing removed",
+                    "price": 965,
+                    "price_sqft": 0.965,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-07-12",
+                    "event_name": "Price Changed for rent",
+                    "price": 966,
+                    "price_sqft": 0.966,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-07-11",
+                    "event_name": "Price Changed for rent",
+                    "price": 954,
+                    "price_sqft": 0.954,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-07-08",
+                    "event_name": "Price Changed for rent",
+                    "price": 965,
+                    "price_sqft": 0.965,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-07-07",
+                    "event_name": "Price Changed for rent",
+                    "price": 965,
+                    "price_sqft": 0.965,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-07-07",
+                    "event_name": "Price Changed for rent",
+                    "price": 965,
+                    "price_sqft": 0.965,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-07-06",
+                    "event_name": "Price Changed for rent",
+                    "price": 964,
+                    "price_sqft": 0.964,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-07-06",
+                    "event_name": "Price Changed for rent",
+                    "price": 964,
+                    "price_sqft": 0.964,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-07-05",
+                    "event_name": "Price Changed for rent",
+                    "price": 975,
+                    "price_sqft": 0.975,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-07-05",
+                    "event_name": "Listing removed",
+                    "price": 702,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-07-05",
+                    "event_name": "Listing removed",
+                    "price": 703,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-07-05",
+                    "event_name": "Listed for rent",
+                    "price": 975,
+                    "price_sqft": 0.975,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-29",
+                    "event_name": "Price Changed for rent",
+                    "price": 702,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-29",
+                    "event_name": "Price Changed for rent",
+                    "price": 902,
+                    "price_sqft": 0.902,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-29",
+                    "event_name": "Price Changed for rent",
+                    "price": 902,
+                    "price_sqft": 0.902,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-29",
+                    "event_name": "Listing removed",
+                    "price": 699,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-29",
+                    "event_name": "Listing removed",
+                    "price": 895,
+                    "price_sqft": 0.895,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-28",
+                    "event_name": "Price Changed for rent",
+                    "price": 899,
+                    "price_sqft": 0.899,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-28",
+                    "event_name": "Price Changed for rent",
+                    "price": 703,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-27",
+                    "event_name": "Price Changed for rent",
+                    "price": 697,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-27",
+                    "event_name": "Price Changed for rent",
+                    "price": 895,
+                    "price_sqft": 0.895,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-23",
+                    "event_name": "Price Changed for rent",
+                    "price": 699,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-23",
+                    "event_name": "Price Changed for rent",
+                    "price": 899,
+                    "price_sqft": 0.899,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-17",
+                    "event_name": "Price Changed for rent",
+                    "price": 888,
+                    "price_sqft": 0.888,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-17",
+                    "event_name": "Price Changed for rent",
+                    "price": 725,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-15",
+                    "event_name": "Price Changed for rent",
+                    "price": 753,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-15",
+                    "event_name": "Price Changed for rent",
+                    "price": 758,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-15",
+                    "event_name": "Price Changed for rent",
+                    "price": 894,
+                    "price_sqft": 0.894,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-15",
+                    "event_name": "Price Changed for rent",
+                    "price": 894,
+                    "price_sqft": 0.894,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-09",
+                    "event_name": "Price Changed for rent",
+                    "price": 758,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-07",
+                    "event_name": "Price Changed for rent",
+                    "price": 787,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-07",
+                    "event_name": "Price Changed for rent",
+                    "price": 883,
+                    "price_sqft": 0.883,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-06",
+                    "event_name": "Price Changed for rent",
+                    "price": 883,
+                    "price_sqft": 0.883,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-06",
+                    "event_name": "Listed for rent",
+                    "price": 787,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-06",
+                    "event_name": "Listed for rent",
+                    "price": 883,
+                    "price_sqft": 0.883,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-02",
+                    "event_name": "Listed for rent",
+                    "price": 792,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-02",
+                    "event_name": "Listed for rent",
+                    "price": 914,
+                    "price_sqft": 0.914,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-01",
+                    "event_name": "Listed for rent",
+                    "price": 794,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-06-01",
+                    "event_name": "Listed for rent",
+                    "price": 914,
+                    "price_sqft": 0.914,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-05-30",
+                    "event_name": "Listing removed",
+                    "price": 922,
+                    "price_sqft": 0.922,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-05-18",
+                    "event_name": "Listed for rent",
+                    "price": 922,
+                    "price_sqft": 0.922,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-29",
+                    "event_name": "Listing removed",
+                    "price": 722,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-29",
+                    "event_name": "Listing removed",
+                    "price": 722,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-29",
+                    "event_name": "Listing removed",
+                    "price": 885,
+                    "price_sqft": 0.885,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-29",
+                    "event_name": "Listing removed",
+                    "price": 885,
+                    "price_sqft": 0.885,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-29",
+                    "event_name": "Listing removed",
+                    "price": 721,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-29",
+                    "event_name": "Listing removed",
+                    "price": 885,
+                    "price_sqft": 0.885,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-28",
+                    "event_name": "Price Changed for rent",
+                    "price": 721,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-26",
+                    "event_name": "Price Changed for rent",
+                    "price": 722,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-26",
+                    "event_name": "Price Changed for rent",
+                    "price": 885,
+                    "price_sqft": 0.885,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-25",
+                    "event_name": "Price Changed for rent",
+                    "price": 722,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-22",
+                    "event_name": "Price Changed for rent",
+                    "price": 718,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-22",
+                    "event_name": "Price Changed for rent",
+                    "price": 885,
+                    "price_sqft": 0.885,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-21",
+                    "event_name": "Price Changed for rent",
+                    "price": 718,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-21",
+                    "event_name": "Price Changed for rent",
+                    "price": 885,
+                    "price_sqft": 0.885,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-18",
+                    "event_name": "Price Changed for rent",
+                    "price": 701,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-18",
+                    "event_name": "Price Changed for rent",
+                    "price": 917,
+                    "price_sqft": 0.917,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-14",
+                    "event_name": "Price Changed for rent",
+                    "price": 712,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-14",
+                    "event_name": "Price Changed for rent",
+                    "price": 891,
+                    "price_sqft": 0.891,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-13",
+                    "event_name": "Price Changed for rent",
+                    "price": 692,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-13",
+                    "event_name": "Price Changed for rent",
+                    "price": 692,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-13",
+                    "event_name": "Price Changed for rent",
+                    "price": 893,
+                    "price_sqft": 0.893,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-13",
+                    "event_name": "Price Changed for rent",
+                    "price": 893,
+                    "price_sqft": 0.893,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-12",
+                    "event_name": "Price Changed for rent",
+                    "price": 716,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-12",
+                    "event_name": "Price Changed for rent",
+                    "price": 895,
+                    "price_sqft": 0.895,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-12",
+                    "event_name": "Price Changed for rent",
+                    "price": 699,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-12",
+                    "event_name": "Price Changed for rent",
+                    "price": 895,
+                    "price_sqft": 0.895,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-11",
+                    "event_name": "Price Changed for rent",
+                    "price": 718,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-11",
+                    "event_name": "Price Changed for rent",
+                    "price": 895,
+                    "price_sqft": 0.895,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-07",
+                    "event_name": "Price Changed for rent",
+                    "price": 741,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-07",
+                    "event_name": "Price Changed for rent",
+                    "price": 892,
+                    "price_sqft": 0.892,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-07",
+                    "event_name": "Price Changed for rent",
+                    "price": 741,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-07",
+                    "event_name": "Price Changed for rent",
+                    "price": 892,
+                    "price_sqft": 0.892,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-07",
+                    "event_name": "Price Changed for rent",
+                    "price": 741,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-04-07",
+                    "event_name": "Price Changed for rent",
+                    "price": 892,
+                    "price_sqft": 0.892,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-03-31",
+                    "event_name": "Price Changed for rent",
+                    "price": 756,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-03-31",
+                    "event_name": "Price Changed for rent",
+                    "price": 930,
+                    "price_sqft": 0.93,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-03-30",
+                    "event_name": "Price Changed for rent",
+                    "price": 782,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-03-30",
+                    "event_name": "Price Changed for rent",
+                    "price": 932,
+                    "price_sqft": 0.932,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-03-29",
+                    "event_name": "Price Changed for rent",
+                    "price": 782,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-03-29",
+                    "event_name": "Price Changed for rent",
+                    "price": 926,
+                    "price_sqft": 0.926,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-03-28",
+                    "event_name": "Price Changed for rent",
+                    "price": 789,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-03-28",
+                    "event_name": "Price Changed for rent",
+                    "price": 882,
+                    "price_sqft": 0.882,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-03-11",
+                    "event_name": "Price Changed for rent",
+                    "price": 690,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-03-11",
+                    "event_name": "Price Changed for rent",
+                    "price": 890,
+                    "price_sqft": 0.89,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-03-10",
+                    "event_name": "Price Changed for rent",
+                    "price": 717,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-03-10",
+                    "event_name": "Price Changed for rent",
+                    "price": 875,
+                    "price_sqft": 0.875,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-03-09",
+                    "event_name": "Price Changed for rent",
+                    "price": 719,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-03-09",
+                    "event_name": "Price Changed for rent",
+                    "price": 875,
+                    "price_sqft": 0.875,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-03-09",
+                    "event_name": "Price Changed for rent",
+                    "price": 715,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-03-04",
+                    "event_name": "Listed for rent",
+                    "price": 687,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-03-04",
+                    "event_name": "Listed for rent",
+                    "price": 878,
+                    "price_sqft": 0.878,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-03-03",
+                    "event_name": "Price Changed for rent",
+                    "price": 710,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-03-03",
+                    "event_name": "Listed for rent",
+                    "price": 888,
+                    "price_sqft": 0.888,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-02-29",
+                    "event_name": "Price Changed for rent",
+                    "price": 725,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-02-29",
+                    "event_name": "Price Changed for rent",
+                    "price": 899,
+                    "price_sqft": 0.899,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-02-28",
+                    "event_name": "Listing removed",
+                    "price": 702,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-02-28",
+                    "event_name": "Listing removed",
+                    "price": 915,
+                    "price_sqft": 0.915,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-02-28",
+                    "event_name": "Listing removed",
+                    "price": 915,
+                    "price_sqft": 0.915,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-02-25",
+                    "event_name": "Price Changed for rent",
+                    "price": 710,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-02-25",
+                    "event_name": "Price Changed for rent",
+                    "price": 890,
+                    "price_sqft": 0.89,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-02-18",
+                    "event_name": "Price Changed for rent",
+                    "price": 702,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-02-18",
+                    "event_name": "Price Changed for rent",
+                    "price": 702,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-02-11",
+                    "event_name": "Price Changed for rent",
+                    "price": 917,
+                    "price_sqft": 0.917,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-02-11",
+                    "event_name": "Listed for rent",
+                    "price": 708,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-02-08",
+                    "event_name": "Listed for rent",
+                    "price": 742,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-02-08",
+                    "event_name": "Listed for rent",
+                    "price": 915,
+                    "price_sqft": 0.915,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-02-03",
+                    "event_name": "Price Changed for rent",
+                    "price": 915,
+                    "price_sqft": 0.915,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-02-03",
+                    "event_name": "Price Changed for rent",
+                    "price": 915,
+                    "price_sqft": 0.915,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-02-03",
+                    "event_name": "Listed for rent",
+                    "price": 709,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-02-01",
+                    "event_name": "Listing removed",
+                    "price": 709,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-02-01",
+                    "event_name": "Listing removed",
+                    "price": 709,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-02-01",
+                    "event_name": "Listed for rent",
+                    "price": 989,
+                    "price_sqft": 0.989,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-02-01",
+                    "event_name": "Listing removed",
+                    "price": 940,
+                    "price_sqft": 0.94,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-02-01",
+                    "event_name": "Listing removed",
+                    "price": 709,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-02-01",
+                    "event_name": "Listed for rent",
+                    "price": 1027,
+                    "price_sqft": 1.027,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-01-28",
+                    "event_name": "Listed for rent",
+                    "price": 940,
+                    "price_sqft": 0.94,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-01-27",
+                    "event_name": "Price Changed for rent",
+                    "price": 709,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-01-27",
+                    "event_name": "Price Changed for rent",
+                    "price": 709,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-01-27",
+                    "event_name": "Price Changed for rent",
+                    "price": 709,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-01-26",
+                    "event_name": "Price Changed for rent",
+                    "price": 694,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-01-25",
+                    "event_name": "Price Changed for rent",
+                    "price": 694,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-01-25",
+                    "event_name": "Price Changed for rent",
+                    "price": 694,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-01-20",
+                    "event_name": "Price Changed for rent",
+                    "price": 754,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-01-14",
+                    "event_name": "Price Changed for rent",
+                    "price": 738,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-01-13",
+                    "event_name": "Price Changed for rent",
+                    "price": 750,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-01-06",
+                    "event_name": "Listed for rent",
+                    "price": 819,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-01-06",
+                    "event_name": "Listed for rent",
+                    "price": 825,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2016-01-06",
+                    "event_name": "Listed for rent",
+                    "price": 825,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-12-30",
+                    "event_name": "Listing removed",
+                    "price": 885,
+                    "price_sqft": 0.885,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-12-30",
+                    "event_name": "Listing removed",
+                    "price": 896,
+                    "price_sqft": 0.896,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-12-30",
+                    "event_name": "Listing removed",
+                    "price": 885,
+                    "price_sqft": 0.885,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-12-15",
+                    "event_name": "Listed for rent",
+                    "price": 896,
+                    "price_sqft": 0.896,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-12-15",
+                    "event_name": "Listed for rent",
+                    "price": 885,
+                    "price_sqft": 0.885,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-12-15",
+                    "event_name": "Listed for rent",
+                    "price": 885,
+                    "price_sqft": 0.885,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-11-29",
+                    "event_name": "Listing removed",
+                    "price": 799,
+                    "price_sqft": 0.799,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-11-29",
+                    "event_name": "Listing removed",
+                    "price": 835,
+                    "price_sqft": 0.835,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-11-29",
+                    "event_name": "Listing removed",
+                    "price": 865,
+                    "price_sqft": 0.865,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-11-19",
+                    "event_name": "Price Changed for rent",
+                    "price": 799,
+                    "price_sqft": 0.799,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-11-16",
+                    "event_name": "Price Changed for rent",
+                    "price": 835,
+                    "price_sqft": 0.835,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-11-12",
+                    "event_name": "Price Changed for rent",
+                    "price": 865,
+                    "price_sqft": 0.865,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-11-11",
+                    "event_name": "Price Changed for rent",
+                    "price": 865,
+                    "price_sqft": 0.865,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-11-03",
+                    "event_name": "Listed for rent",
+                    "price": 899,
+                    "price_sqft": 0.899,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-11-03",
+                    "event_name": "Listed for rent",
+                    "price": 899,
+                    "price_sqft": 0.899,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-11-03",
+                    "event_name": "Listed for rent",
+                    "price": 899,
+                    "price_sqft": 0.899,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-10-30",
+                    "event_name": "Listing removed",
+                    "price": 855,
+                    "price_sqft": 0.855,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-10-30",
+                    "event_name": "Listing removed",
+                    "price": 825,
+                    "price_sqft": 0.825,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-10-30",
+                    "event_name": "Listing removed",
+                    "price": 845,
+                    "price_sqft": 0.845,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-10-19",
+                    "event_name": "Price Changed for rent",
+                    "price": 855,
+                    "price_sqft": 0.855,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-10-15",
+                    "event_name": "Price Changed for rent",
+                    "price": 825,
+                    "price_sqft": 0.825,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-10-14",
+                    "event_name": "Price Changed for rent",
+                    "price": 845,
+                    "price_sqft": 0.845,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-10-13",
+                    "event_name": "Price Changed for rent",
+                    "price": 845,
+                    "price_sqft": 0.845,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-10-09",
+                    "event_name": "Price Changed for rent",
+                    "price": 845,
+                    "price_sqft": 0.845,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-10-08",
+                    "event_name": "Listed for rent",
+                    "price": 865,
+                    "price_sqft": 0.865,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-10-07",
+                    "event_name": "Listed for rent",
+                    "price": 875,
+                    "price_sqft": 0.875,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-10-05",
+                    "event_name": "Price Changed for rent",
+                    "price": 875,
+                    "price_sqft": 0.875,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-10-05",
+                    "event_name": "Listing removed",
+                    "price": 715,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-09-29",
+                    "event_name": "Listing removed",
+                    "price": 715,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-09-29",
+                    "event_name": "Listing removed",
+                    "price": 899,
+                    "price_sqft": 0.899,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-09-29",
+                    "event_name": "Listing removed",
+                    "price": 899,
+                    "price_sqft": 0.899,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-09-29",
+                    "event_name": "Listing removed",
+                    "price": 715,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-09-26",
+                    "event_name": "Price Changed for rent",
+                    "price": 899,
+                    "price_sqft": 0.899,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-09-25",
+                    "event_name": "Price Changed for rent",
+                    "price": 899,
+                    "price_sqft": 0.899,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-09-25",
+                    "event_name": "Price Changed for rent",
+                    "price": 899,
+                    "price_sqft": 0.899,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-09-23",
+                    "event_name": "Price Changed for rent",
+                    "price": 715,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-09-23",
+                    "event_name": "Price Changed for rent",
+                    "price": 855,
+                    "price_sqft": 0.855,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-09-23",
+                    "event_name": "Price Changed for rent",
+                    "price": 715,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-09-23",
+                    "event_name": "Price Changed for rent",
+                    "price": 855,
+                    "price_sqft": 0.855,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-09-22",
+                    "event_name": "Price Changed for rent",
+                    "price": 715,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-09-22",
+                    "event_name": "Price Changed for rent",
+                    "price": 855,
+                    "price_sqft": 0.855,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-09-17",
+                    "event_name": "Price Changed for rent",
+                    "price": 709,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-09-17",
+                    "event_name": "Price Changed for rent",
+                    "price": 849,
+                    "price_sqft": 0.849,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-09-15",
+                    "event_name": "Listed for rent",
+                    "price": 719,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-09-15",
+                    "event_name": "Listed for rent",
+                    "price": 889,
+                    "price_sqft": 0.889,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-09-12",
+                    "event_name": "Listed for rent",
+                    "price": 709,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-09-12",
+                    "event_name": "Listed for rent",
+                    "price": 709,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-09-12",
+                    "event_name": "Listed for rent",
+                    "price": 849,
+                    "price_sqft": 0.849,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-09-12",
+                    "event_name": "Listed for rent",
+                    "price": 849,
+                    "price_sqft": 0.849,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-08-01",
+                    "event_name": "Listing removed",
+                    "price": 719,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-08-01",
+                    "event_name": "Listing removed",
+                    "price": 719,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-08-01",
+                    "event_name": "Listing removed",
+                    "price": 875,
+                    "price_sqft": 0.875,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-08-01",
+                    "event_name": "Listing removed",
+                    "price": 875,
+                    "price_sqft": 0.875,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-08-01",
+                    "event_name": "Listing removed",
+                    "price": 719,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-08-01",
+                    "event_name": "Listing removed",
+                    "price": 875,
+                    "price_sqft": 0.875,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-07-17",
+                    "event_name": "Listed for rent",
+                    "price": 719,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-07-17",
+                    "event_name": "Listed for rent",
+                    "price": 719,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-07-17",
+                    "event_name": "Listed for rent",
+                    "price": 875,
+                    "price_sqft": 0.875,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-07-17",
+                    "event_name": "Listed for rent",
+                    "price": 875,
+                    "price_sqft": 0.875,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-07-17",
+                    "event_name": "Listed for rent",
+                    "price": 719,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-07-17",
+                    "event_name": "Listed for rent",
+                    "price": 875,
+                    "price_sqft": 0.875,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-06-30",
+                    "event_name": "Listing removed",
+                    "price": 880,
+                    "price_sqft": 0.88,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-06-30",
+                    "event_name": "Listing removed",
+                    "price": 709,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-06-17",
+                    "event_name": "Listed for rent",
+                    "price": 880,
+                    "price_sqft": 0.88,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-06-16",
+                    "event_name": "Listing removed",
+                    "price": 730,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-06-15",
+                    "event_name": "Listing removed",
+                    "price": 730,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-06-15",
+                    "event_name": "Listing removed",
+                    "price": 875,
+                    "price_sqft": 0.875,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-06-15",
+                    "event_name": "Listing removed",
+                    "price": 875,
+                    "price_sqft": 0.875,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-06-11",
+                    "event_name": "Listing removed",
+                    "price": 875,
+                    "price_sqft": 0.875,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-06-10",
+                    "event_name": "Listed for rent",
+                    "price": 875,
+                    "price_sqft": 0.875,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-06-10",
+                    "event_name": "Listed for rent",
+                    "price": 709,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-05-20",
+                    "event_name": "Listed for rent",
+                    "price": 730,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-05-20",
+                    "event_name": "Listed for rent",
+                    "price": 730,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-05-20",
+                    "event_name": "Listed for rent",
+                    "price": 875,
+                    "price_sqft": 0.875,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-05-20",
+                    "event_name": "Listed for rent",
+                    "price": 875,
+                    "price_sqft": 0.875,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-05-09",
+                    "event_name": "Listing removed",
+                    "price": 835,
+                    "price_sqft": 0.835,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-05-08",
+                    "event_name": "Listed for rent",
+                    "price": 835,
+                    "price_sqft": 0.835,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-05-07",
+                    "event_name": "Listing removed",
+                    "price": 890,
+                    "price_sqft": 0.89,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-05-02",
+                    "event_name": "Listed for rent",
+                    "price": 890,
+                    "price_sqft": 0.89,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-05-01",
+                    "event_name": "Listing removed",
+                    "price": 835,
+                    "price_sqft": 0.835,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-05-01",
+                    "event_name": "Listing removed",
+                    "price": 835,
+                    "price_sqft": 0.835,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-05-01",
+                    "event_name": "Listing removed",
+                    "price": 835,
+                    "price_sqft": 0.835,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-25",
+                    "event_name": "Price Changed for rent",
+                    "price": 835,
+                    "price_sqft": 0.835,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-25",
+                    "event_name": "Price Changed for rent",
+                    "price": 835,
+                    "price_sqft": 0.835,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-23",
+                    "event_name": "Price Changed for rent",
+                    "price": 825,
+                    "price_sqft": 0.825,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-19",
+                    "event_name": "Price Changed for rent",
+                    "price": 826,
+                    "price_sqft": 0.826,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-19",
+                    "event_name": "Listing removed",
+                    "price": 727,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-19",
+                    "event_name": "Listing removed",
+                    "price": 729,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-19",
+                    "event_name": "Listing removed",
+                    "price": 724,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-18",
+                    "event_name": "Price Changed for rent",
+                    "price": 835,
+                    "price_sqft": 0.835,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-18",
+                    "event_name": "Price Changed for rent",
+                    "price": 724,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-18",
+                    "event_name": "Price Changed for rent",
+                    "price": 727,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-17",
+                    "event_name": "Price Changed for rent",
+                    "price": 729,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-17",
+                    "event_name": "Price Changed for rent",
+                    "price": 887,
+                    "price_sqft": 0.887,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-17",
+                    "event_name": "Price Changed for rent",
+                    "price": 729,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-17",
+                    "event_name": "Price Changed for rent",
+                    "price": 882,
+                    "price_sqft": 0.882,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-11",
+                    "event_name": "Price Changed for rent",
+                    "price": 716,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-11",
+                    "event_name": "Price Changed for rent",
+                    "price": 883,
+                    "price_sqft": 0.883,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-09",
+                    "event_name": "Price Changed for rent",
+                    "price": 725,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-09",
+                    "event_name": "Price Changed for rent",
+                    "price": 888,
+                    "price_sqft": 0.888,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-09",
+                    "event_name": "Price Changed for rent",
+                    "price": 888,
+                    "price_sqft": 0.888,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-09",
+                    "event_name": "Price Changed for rent",
+                    "price": 725,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-09",
+                    "event_name": "Price Changed for rent",
+                    "price": 888,
+                    "price_sqft": 0.888,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-09",
+                    "event_name": "Listed for rent",
+                    "price": 725,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-04",
+                    "event_name": "Price Changed for rent",
+                    "price": 742,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-04",
+                    "event_name": "Price Changed for rent",
+                    "price": 880,
+                    "price_sqft": 0.88,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-04",
+                    "event_name": "Listed for rent",
+                    "price": 880,
+                    "price_sqft": 0.88,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-03",
+                    "event_name": "Listed for rent",
+                    "price": 870,
+                    "price_sqft": 0.87,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-03",
+                    "event_name": "Listed for rent",
+                    "price": 734,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-01",
+                    "event_name": "Listed for rent",
+                    "price": 760,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-04-01",
+                    "event_name": "Listed for rent",
+                    "price": 874,
+                    "price_sqft": 0.874,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-03-31",
+                    "event_name": "Listing removed",
+                    "price": 699,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-03-31",
+                    "event_name": "Listing removed",
+                    "price": 809,
+                    "price_sqft": 0.809,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-03-31",
+                    "event_name": "Listing removed",
+                    "price": 699,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-03-31",
+                    "event_name": "Listing removed",
+                    "price": 809,
+                    "price_sqft": 0.809,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-03-28",
+                    "event_name": "Price Changed for rent",
+                    "price": 699,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-03-28",
+                    "event_name": "Price Changed for rent",
+                    "price": 809,
+                    "price_sqft": 0.809,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-03-28",
+                    "event_name": "Price Changed for rent",
+                    "price": 699,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-03-28",
+                    "event_name": "Price Changed for rent",
+                    "price": 809,
+                    "price_sqft": 0.809,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-03-28",
+                    "event_name": "Listing removed",
+                    "price": 736,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-03-28",
+                    "event_name": "Listing removed",
+                    "price": 853,
+                    "price_sqft": 0.853,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-03-26",
+                    "event_name": "Price Changed for rent",
+                    "price": 736,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-03-26",
+                    "event_name": "Listed for rent",
+                    "price": 736,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-03-26",
+                    "event_name": "Price Changed for rent",
+                    "price": 853,
+                    "price_sqft": 0.853,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-03-26",
+                    "event_name": "Listed for rent",
+                    "price": 853,
+                    "price_sqft": 0.853,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-03-26",
+                    "event_name": "Price Changed for rent",
+                    "price": 736,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-03-26",
+                    "event_name": "Price Changed for rent",
+                    "price": 853,
+                    "price_sqft": 0.853,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-03-19",
+                    "event_name": "Listed for rent",
+                    "price": 799,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-03-19",
+                    "event_name": "Listed for rent",
+                    "price": 886,
+                    "price_sqft": 0.886,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-03-13",
+                    "event_name": "Listed for rent",
+                    "price": 844,
+                    "price_sqft": 0.844,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-03-13",
+                    "event_name": "Listed for rent",
+                    "price": 785,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-02-28",
+                    "event_name": "Listing removed",
+                    "price": 719,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-02-28",
+                    "event_name": "Listing removed",
+                    "price": 719,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-02-28",
+                    "event_name": "Listing removed",
+                    "price": 815,
+                    "price_sqft": 0.815,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-02-01",
+                    "event_name": "Listing removed",
+                    "price": 715,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-02-01",
+                    "event_name": "Listing removed",
+                    "price": 825,
+                    "price_sqft": 0.825,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-01-31",
+                    "event_name": "Price Changed for rent",
+                    "price": 715,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-01-31",
+                    "event_name": "Price Changed for rent",
+                    "price": 825,
+                    "price_sqft": 0.825,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-01-31",
+                    "event_name": "Listing removed",
+                    "price": 799,
+                    "price_sqft": 0.799,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-01-29",
+                    "event_name": "Price Changed for rent",
+                    "price": 719,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-01-29",
+                    "event_name": "Price Changed for rent",
+                    "price": 719,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-01-29",
+                    "event_name": "Price Changed for rent",
+                    "price": 799,
+                    "price_sqft": 0.799,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-01-29",
+                    "event_name": "Price Changed for rent",
+                    "price": 815,
+                    "price_sqft": 0.815,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-01-28",
+                    "event_name": "Listed for rent",
+                    "price": 719,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-01-28",
+                    "event_name": "Listed for rent",
+                    "price": 815,
+                    "price_sqft": 0.815,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-01-23",
+                    "event_name": "Price Changed for rent",
+                    "price": 701,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-01-23",
+                    "event_name": "Listed for rent",
+                    "price": 701,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-01-23",
+                    "event_name": "Listed for rent",
+                    "price": 854,
+                    "price_sqft": 0.854,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2015-01-23",
+                    "event_name": "Listed for rent",
+                    "price": 854,
+                    "price_sqft": 0.854,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-12-31",
+                    "event_name": "Listing removed",
+                    "price": 717,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-12-31",
+                    "event_name": "Listing removed",
+                    "price": 919,
+                    "price_sqft": 0.919,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-12-31",
+                    "event_name": "Listing removed",
+                    "price": 882,
+                    "price_sqft": 0.882,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-12-31",
+                    "event_name": "Listing removed",
+                    "price": 719,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-12-31",
+                    "event_name": "Listing removed",
+                    "price": 879,
+                    "price_sqft": 0.879,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-12-23",
+                    "event_name": "Price Changed for rent",
+                    "price": 717,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-12-23",
+                    "event_name": "Price Changed for rent",
+                    "price": 879,
+                    "price_sqft": 0.879,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-12-18",
+                    "event_name": "Price Changed for rent",
+                    "price": 919,
+                    "price_sqft": 0.919,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-12-18",
+                    "event_name": "Price Changed for rent",
+                    "price": 719,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-12-11",
+                    "event_name": "Price Changed for rent",
+                    "price": 882,
+                    "price_sqft": 0.882,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-12-11",
+                    "event_name": "Listed for rent",
+                    "price": 623,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-12-11",
+                    "event_name": "Listed for rent",
+                    "price": 893,
+                    "price_sqft": 0.893,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-12-10",
+                    "event_name": "Price Changed for rent",
+                    "price": 684,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-12-10",
+                    "event_name": "Price Changed for rent",
+                    "price": 889,
+                    "price_sqft": 0.889,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-12-10",
+                    "event_name": "Price Changed for rent",
+                    "price": 889,
+                    "price_sqft": 0.889,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-12-10",
+                    "event_name": "Price Changed for rent",
+                    "price": 686,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-12-10",
+                    "event_name": "Listing removed",
+                    "price": 686,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-12-10",
+                    "event_name": "Listing removed",
+                    "price": 925,
+                    "price_sqft": 0.925,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-11-15",
+                    "event_name": "Listed for rent",
+                    "price": 686,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-11-15",
+                    "event_name": "Listed for rent",
+                    "price": 925,
+                    "price_sqft": 0.925,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-11-14",
+                    "event_name": "Listed for rent",
+                    "price": 659,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-11-14",
+                    "event_name": "Listed for rent",
+                    "price": 935,
+                    "price_sqft": 0.935,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-11-13",
+                    "event_name": "Listed for rent",
+                    "price": 987,
+                    "price_sqft": 0.987,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-11-13",
+                    "event_name": "Listed for rent",
+                    "price": 692,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-09-30",
+                    "event_name": "Listing removed",
+                    "price": 729,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-09-30",
+                    "event_name": "Listing removed",
+                    "price": 759,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-09-30",
+                    "event_name": "Listing removed",
+                    "price": 903,
+                    "price_sqft": 0.903,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-09-30",
+                    "event_name": "Listing removed",
+                    "price": 903,
+                    "price_sqft": 0.903,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-09-30",
+                    "event_name": "Listing removed",
+                    "price": 752,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-09-30",
+                    "event_name": "Listing removed",
+                    "price": 860,
+                    "price_sqft": 0.86,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-09-08",
+                    "event_name": "Listed for rent",
+                    "price": 759,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-09-02",
+                    "event_name": "Listing removed",
+                    "price": 733,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-08-28",
+                    "event_name": "Price Changed for rent",
+                    "price": 752,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-08-28",
+                    "event_name": "Price Changed for rent",
+                    "price": 860,
+                    "price_sqft": 0.86,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-08-27",
+                    "event_name": "Price Changed for rent",
+                    "price": 729,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-08-27",
+                    "event_name": "Price Changed for rent",
+                    "price": 903,
+                    "price_sqft": 0.903,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-08-26",
+                    "event_name": "Price Changed for rent",
+                    "price": 733,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-08-26",
+                    "event_name": "Price Changed for rent",
+                    "price": 903,
+                    "price_sqft": 0.903,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-08-22",
+                    "event_name": "Price Changed for rent",
+                    "price": 764,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-08-22",
+                    "event_name": "Price Changed for rent",
+                    "price": 823,
+                    "price_sqft": 0.823,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-08-21",
+                    "event_name": "Price Changed for rent",
+                    "price": 754,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-08-21",
+                    "event_name": "Price Changed for rent",
+                    "price": 823,
+                    "price_sqft": 0.823,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-08-20",
+                    "event_name": "Price Changed for rent",
+                    "price": 838,
+                    "price_sqft": 0.838,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-08-20",
+                    "event_name": "Price Changed for rent",
+                    "price": 750,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-08-16",
+                    "event_name": "Price Changed for rent",
+                    "price": 766,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-08-15",
+                    "event_name": "Price Changed for rent",
+                    "price": 783,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-08-14",
+                    "event_name": "Price Changed for rent",
+                    "price": 836,
+                    "price_sqft": 0.836,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-08-14",
+                    "event_name": "Price Changed for rent",
+                    "price": 769,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-08-13",
+                    "event_name": "Price Changed for rent",
+                    "price": 767,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-08-13",
+                    "event_name": "Price Changed for rent",
+                    "price": 836,
+                    "price_sqft": 0.836,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-08-12",
+                    "event_name": "Listed for rent",
+                    "price": 766,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-08-12",
+                    "event_name": "Listed for rent",
+                    "price": 836,
+                    "price_sqft": 0.836,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-08-08",
+                    "event_name": "Listed for rent",
+                    "price": 870,
+                    "price_sqft": 0.87,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-08-08",
+                    "event_name": "Listed for rent",
+                    "price": 767,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-07-31",
+                    "event_name": "Price Changed for rent",
+                    "price": 713,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-07-31",
+                    "event_name": "Listed for rent",
+                    "price": 906,
+                    "price_sqft": 0.906,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-07-24",
+                    "event_name": "Listed for rent",
+                    "price": 716,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-07-10",
+                    "event_name": "Listing removed",
+                    "price": 743,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-07-10",
+                    "event_name": "Listing removed",
+                    "price": 747,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-07-10",
+                    "event_name": "Listing removed",
+                    "price": 937,
+                    "price_sqft": 0.937,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-07-10",
+                    "event_name": "Listing removed",
+                    "price": 747,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-07-10",
+                    "event_name": "Listing removed",
+                    "price": 937,
+                    "price_sqft": 0.937,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-06-12",
+                    "event_name": "Listed for rent",
+                    "price": 747,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-06-12",
+                    "event_name": "Listed for rent",
+                    "price": 937,
+                    "price_sqft": 0.937,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-06-12",
+                    "event_name": "Listed for rent",
+                    "price": 747,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-06-11",
+                    "event_name": "Listed for rent",
+                    "price": 743,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-06-11",
+                    "event_name": "Listed for rent",
+                    "price": 937,
+                    "price_sqft": 0.937,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-05-31",
+                    "event_name": "Listing removed",
+                    "price": 681,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-05-31",
+                    "event_name": "Listing removed",
+                    "price": 681,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-05-31",
+                    "event_name": "Listing removed",
+                    "price": 1041,
+                    "price_sqft": 1.041,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-05-31",
+                    "event_name": "Listing removed",
+                    "price": 1041,
+                    "price_sqft": 1.041,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-05-31",
+                    "event_name": "Listing removed",
+                    "price": 681,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-05-02",
+                    "event_name": "Price Changed for rent",
+                    "price": 681,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-05-02",
+                    "event_name": "Price Changed for rent",
+                    "price": 681,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-05-02",
+                    "event_name": "Price Changed for rent",
+                    "price": 1041,
+                    "price_sqft": 1.041,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-05-02",
+                    "event_name": "Price Changed for rent",
+                    "price": 681,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-05-02",
+                    "event_name": "Listed for rent",
+                    "price": 1041,
+                    "price_sqft": 1.041,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-04-28",
+                    "event_name": "Price Changed for rent",
+                    "price": 694,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-04-28",
+                    "event_name": "Listed for rent",
+                    "price": 694,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-04-28",
+                    "event_name": "Listed for rent",
+                    "price": 694,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-04-28",
+                    "event_name": "Listed for rent",
+                    "price": 853,
+                    "price_sqft": 0.853,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-04-06",
+                    "event_name": "Listed for rent",
+                    "price": 697,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-03-28",
+                    "event_name": "Listing removed",
+                    "price": 707,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-03-28",
+                    "event_name": "Listing removed",
+                    "price": 717,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-03-28",
+                    "event_name": "Listing removed",
+                    "price": 735,
+                    "price_sqft": 0.735,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-03-28",
+                    "event_name": "Listing removed",
+                    "price": 911,
+                    "price_sqft": 0.911,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-03-28",
+                    "event_name": "Listing removed",
+                    "price": 927,
+                    "price_sqft": 0.927,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-03-15",
+                    "event_name": "Listing removed",
+                    "price": 601,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-03-14",
+                    "event_name": "Price Changed for rent",
+                    "price": 707,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-03-12",
+                    "event_name": "Price Changed for rent",
+                    "price": 717,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-03-12",
+                    "event_name": "Price Changed for rent",
+                    "price": 911,
+                    "price_sqft": 0.911,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-03-07",
+                    "event_name": "Price Changed for rent",
+                    "price": 601,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-03-07",
+                    "event_name": "Price Changed for rent",
+                    "price": 927,
+                    "price_sqft": 0.927,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-02-28",
+                    "event_name": "Price Changed for rent",
+                    "price": 630,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-02-28",
+                    "event_name": "Price Changed for rent",
+                    "price": 630,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-02-28",
+                    "event_name": "Price Changed for rent",
+                    "price": 735,
+                    "price_sqft": 0.735,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-02-28",
+                    "event_name": "Price Changed for rent",
+                    "price": 735,
+                    "price_sqft": 0.735,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-02-28",
+                    "event_name": "Price Changed for rent",
+                    "price": 630,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-02-28",
+                    "event_name": "Price Changed for rent",
+                    "price": 735,
+                    "price_sqft": 0.735,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-02-19",
+                    "event_name": "Price Changed for rent",
+                    "price": 725,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-02-19",
+                    "event_name": "Price Changed for rent",
+                    "price": 784,
+                    "price_sqft": 0.784,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-02-19",
+                    "event_name": "Listed for rent",
+                    "price": 720,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-02-19",
+                    "event_name": "Listed for rent",
+                    "price": 784,
+                    "price_sqft": 0.784,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-02-09",
+                    "event_name": "Listed for rent",
+                    "price": 721,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-02-09",
+                    "event_name": "Listed for rent",
+                    "price": 855,
+                    "price_sqft": 0.855,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-01-31",
+                    "event_name": "Price Changed for rent",
+                    "price": 826,
+                    "price_sqft": 0.826,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-01-31",
+                    "event_name": "Listing removed",
+                    "price": 701,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-01-31",
+                    "event_name": "Listing removed",
+                    "price": 773,
+                    "price_sqft": 0.773,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-01-31",
+                    "event_name": "Listing removed",
+                    "price": 755,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-01-31",
+                    "event_name": "Listing removed",
+                    "price": 773,
+                    "price_sqft": 0.773,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-01-30",
+                    "event_name": "Price Changed for rent",
+                    "price": 798,
+                    "price_sqft": 0.798,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-01-29",
+                    "event_name": "Price Changed for rent",
+                    "price": 701,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-01-29",
+                    "event_name": "Price Changed for rent",
+                    "price": 773,
+                    "price_sqft": 0.773,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-01-29",
+                    "event_name": "Price Changed for rent",
+                    "price": 773,
+                    "price_sqft": 0.773,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-01-24",
+                    "event_name": "Listed for rent",
+                    "price": 755,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-01-24",
+                    "event_name": "Listed for rent",
+                    "price": 775,
+                    "price_sqft": 0.775,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-01-24",
+                    "event_name": "Price Changed for rent",
+                    "price": 771,
+                    "price_sqft": 0.771,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-01-24",
+                    "event_name": "Price Changed for rent",
+                    "price": 709,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-01-24",
+                    "event_name": "Listed for rent",
+                    "price": 699,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-01-24",
+                    "event_name": "Listed for rent",
+                    "price": 777,
+                    "price_sqft": 0.777,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-01-01",
+                    "event_name": "Listing removed",
+                    "price": 717,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-01-01",
+                    "event_name": "Listing removed",
+                    "price": 780,
+                    "price_sqft": 0.78,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-01-01",
+                    "event_name": "Listing removed",
+                    "price": 717,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2014-01-01",
+                    "event_name": "Listing removed",
+                    "price": 780,
+                    "price_sqft": 0.78,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2013-12-27",
+                    "event_name": "Price Changed for rent",
+                    "price": 7820,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2013-12-19",
+                    "event_name": "Price Changed for rent",
+                    "price": 780,
+                    "price_sqft": 0.78,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2013-12-19",
+                    "event_name": "Price Changed for rent",
+                    "price": 717,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2013-12-19",
+                    "event_name": "Price Changed for rent",
+                    "price": 780,
+                    "price_sqft": 0.78,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2013-12-19",
+                    "event_name": "Price Changed for rent",
+                    "price": 780,
+                    "price_sqft": 0.78,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2013-12-19",
+                    "event_name": "Price Changed for rent",
+                    "price": 717,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2013-12-19",
+                    "event_name": "Price Changed for rent",
+                    "price": 716,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2013-12-18",
+                    "event_name": "Price Changed for rent",
+                    "price": 771,
+                    "price_sqft": 0.771,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2013-12-18",
+                    "event_name": "Price Changed for rent",
+                    "price": 747,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2013-12-16",
+                    "event_name": "Price Changed for rent",
+                    "price": 771,
+                    "price_sqft": 0.771,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2013-12-16",
+                    "event_name": "Price Changed for rent",
+                    "price": 729,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2013-12-16",
+                    "event_name": "Price Changed for rent",
+                    "price": 771,
+                    "price_sqft": 0.771,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2013-12-16",
+                    "event_name": "Price Changed for rent",
+                    "price": 726,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2013-12-12",
+                    "event_name": "Price Changed for rent",
+                    "price": 677,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2013-12-12",
+                    "event_name": "Price Changed for rent",
+                    "price": 757,
+                    "price_sqft": 0.757,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2013-12-07",
+                    "event_name": "Price Changed for rent",
+                    "price": 660,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2013-12-07",
+                    "event_name": "Price Changed for rent",
+                    "price": 769,
+                    "price_sqft": 0.769,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2013-12-07",
+                    "event_name": "Price Changed for rent",
+                    "price": 678,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2013-12-07",
+                    "event_name": "Price Changed for rent",
+                    "price": 769,
+                    "price_sqft": 0.769,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2013-11-27",
+                    "event_name": "Listed for rent",
+                    "price": 766,
+                    "price_sqft": null,
+                    "source_listing_id": "260463016",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2013-11-27",
+                    "event_name": "Listed for rent",
+                    "price": 711,
+                    "price_sqft": null,
+                    "source_listing_id": "257764029",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2013-11-27",
+                    "event_name": "Listed for rent",
+                    "price": 867,
+                    "price_sqft": 0.867,
+                    "source_listing_id": "258012001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2013-11-27",
+                    "event_name": "Listed for rent",
+                    "price": 794,
+                    "price_sqft": 0.794,
+                    "source_listing_id": "259698002",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2013-11-27",
+                    "event_name": "Listed for rent",
+                    "price": 717,
+                    "price_sqft": null,
+                    "source_listing_id": "257799001",
+                    "source_name": "VFlyer",
+                    "listing": null
+                },
+                {
+                    "date": "2013-11-27",
+                    "event_name": "Listed for rent",
+                    "price": 794,
+                    "price_sqft": 0.794,
+                    "source_listing_id": "257764047",
+                    "source_name": "VFlyer",
+                    "listing": null
+                }
+            ],
+            "property_id": "4541373160",
+            "provider_url": null,
+            "source": {
+                "agents": null,
+                "disclaimer": null,
+                "id": "CSTR",
+                "plan_id": null,
+                "listing_id": "z9tv0sw",
+                "name": "CoStar",
+                "raw": null,
+                "type": "community",
+                "community_id": 1365839
+            },
+            "status": "for_rent",
+            "suppression_flags": null,
+            "tags": [
+                "community_no_fee",
+                "central_air",
+                "forced_air",
+                "washer_dryer",
+                "fireplace",
+                "dishwasher",
+                "pets_allowed",
+                "swimming_pool",
+                "rental_property",
+                "shopping"
+            ],
+            "tax_history": null
+        }
+    }
+}
