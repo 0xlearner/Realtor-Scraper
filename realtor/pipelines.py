@@ -12,7 +12,7 @@ import logging
 
 class RealtorPipeline:
     def open_spider(self, spider):
-        self.file = open("realtor_3.csv", "w", newline="")
+        self.file = open("realtor_5.csv", "w", newline="")
         # if python < 3 use
         # self.file = open('mietwohnungen.csv', 'wb')
         self.items = []
